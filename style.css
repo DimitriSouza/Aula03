@@ -1,5 +1,6 @@
 body{
     background-color: bisque;
+
 }
 h1{
     color: rgb(78, 4, 4);
@@ -11,11 +12,43 @@ p{
    font-size: 20pt;
    color: rgb(128, 94, 2);
    font-weight: bold;
-  
 
 }
 img{
     height: 400px;
     width: auto;
-    border-radius: 5%;
+    
+}
+input{
+    width: 150px;
+    height: 20px;
+    border-radius: 20%;
+    border-radius: 20px;
+    border:3px solid yellow;
+    
+
+}
+#inputEmailPrimeiro{
+    background-color: blueviolet;
+}
+.inputEmail{
+    background-color: rgb(161, 161, 17);
+}
+.inputSenha{
+    background-color: rgb(145, 86, 9);
+    height: 40px;
+}
+button{
+    height: 100px;
+    width: 90px;
+    border: none;
+    background-color: aquamarine;
+    border-radius: 20px;
+    cursor: pointer;
+}
+div{
+    width: 100vw;
+    height: 40px;
+border-bottom: 2px solid rgb(112, 0, 0);
+
 }
